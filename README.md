@@ -3,7 +3,7 @@
 ### Test environment
 MATLAB.2018b or above.
 ### Instruction
-Run Exp_Ai.m, where i = 1,..,5 is for Experiment in Appendix A i respectively.
+Run **Exp_Ai.m**, where i = 1,..,5 is for Experiment in Appendix A i respectively.
 
 ### Files
 **a1.mat** is the game matrix in considered Appendix A.1
