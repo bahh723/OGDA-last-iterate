@@ -1,4 +1,5 @@
-# OGDA-last-iterate
+# OGDA Linear Last-iterate Convergence
+
 This repository contains source codes for the paper titled _Linear Last-iterate Convergence for Matrix Games and Stochastic Games_ authored by
 [Chung-Wei Lee](https://chungwei.net/),
 [Haipeng Luo](https://haipeng-luo.net/),
